@@ -1,1 +1,1 @@
-Soubor multimeter.c je "Source File", ke kterému se připojuje knihovna pro ovládání LCD displeje lcd.h. Jelikož jsem ještě nezjistil, jak nahrát celej projekt, tak si hold musíte skopírovat zdrojáky. Vše funkční a odzkoušené.
+Soubor multimeter.c je "Source File", ke kterému se připojuje knihovna pro ovládání LCD displeje lcd.h, který přidáte do sekce "header files" Jelikož jsem ještě nezjistil, jak nahrát celej projekt, tak si hold musíte skopírovat zdrojáky. Vše funkční a odzkoušené.
